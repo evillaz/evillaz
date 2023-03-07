@@ -50,4 +50,4 @@ I love to keep in touch with my fellows. Feel free to get in touch in any of my 
 </p>
 
 #### **Visitor Count**
- ![Visitor Count](https://profile-counter.glitch.me/{devSouvik}/count.svg)
+ ![Visitor Count](https://profile-counter.glitch.me/{evillaz}/count.svg)
