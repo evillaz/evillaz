@@ -1,4 +1,32 @@
-[![github](https://github.com/evillaz/evillaz/blob/main/icons/medium.png)][1]
+Hi there, I'm Eduardo!
+
+<a href="https://medium.com/@evillaz123">
+  <img src="https://github.com/evillaz/evillaz/blob/main/icons/medium.png" alt="medium" style="width: 24px; height:     24px;">
+</a>
+&nbsp
+<a href="https://www.linkedin.com/in/eduardo-villarreal-144a8925a/">
+  <img src="https://github.com/evillaz/evillaz/blob/main/icons/linkedin.png" alt="linkedin" style="width: 24px; height:     24px;">
+</a>
+&nbsp
+<a href="https://twitter.com/evillazz">
+  <img src="https://github.com/evillaz/evillaz/blob/main/icons/twitter.png" alt="twitter" style="width: 24px; height:     24px;">
+</a>
+
+Languages and Tools:
+
+<a href="">
+  <img src="https://github.com/evillaz/evillaz/blob/main/icons/medium.png" alt="javascript" style="width: 24px; height:     24px;">
+</a>
+&nbsp
+<a href="">
+  <img src="https://github.com/evillaz/evillaz/blob/main/icons/js.png" alt="html" style="width: 24px; height:     24px;">
+</a>
+&nbsp
+<a href="">
+  <img src="https://github.com/evillaz/evillaz/blob/main/icons/twitter.png" alt="css" style="width: 24px; height:     24px;">
+</a>
+
+
 
 # 📖 [Hello-Microverse] <a name="about-project"></a>
 
