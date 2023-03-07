@@ -39,14 +39,15 @@ I love to keep in touch with my fellows. Feel free to get in touch in any of my 
   <a href="https://medium.com/@evillaz123">
     <img src="https://github.com/evillaz/evillaz/blob/main/icons/medium.png" alt="medium" style="width: 40px; height: 40px;">
   </a>
-  &nbsp
+  &nbsp&nbsp
   <a href="https://www.linkedin.com/in/eduardo-villarreal-144a8925a/">
     <img src="https://github.com/evillaz/evillaz/blob/main/icons/linkedin.png" alt="linkedin" style="width: 40px; height:     40px;">
   </a>
-  &nbsp
+  &nbsp&nbsp
   <a href="https://twitter.com/evillazz">
     <img src="https://github.com/evillaz/evillaz/blob/main/icons/twitter.png" alt="twitter" style="width: 40px; height:     40px;">
   </a>
 </p>
 
-
+#### **Visitor Count**
+ ![Visitor Count](https://profile-counter.glitch.me/{devSouvik}/count.svg)
