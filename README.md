@@ -5,10 +5,7 @@ A full stack software developer with a Computer and Systems engineer bachelor's 
 ## About Me
 
 <ul>
-  <li>💻 I'm currently on Microverse program improving my coding skills</li>
-  <li>👨‍ Progressing through projects based on HTML, CSS and JS integration</li>
   <li>🌍 Working with people around the world</li>
-  <li>📺 Watching anime, 🎮 playing videogames  and ⚽ soccer on free time</li>
 </ul>
 
 These are the languages and Tools that I learned so far:
